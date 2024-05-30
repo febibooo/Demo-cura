@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>block_Login global variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3eb4eff2-0a35-426c-ae30-66198fd7e877</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3971d938-91c4-4de0-8c0b-5f1273112df9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07897aa4-4722-45b8-b3ee-fcfc7e12a3e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7da3af98-0f58-43cd-a922-83405749e25e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.BASE_URL</defaultValue>
+      <description></description>
+      <id>3971d938-91c4-4de0-8c0b-5f1273112df9</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.WIDTH</defaultValue>
+      <description></description>
+      <id>07897aa4-4722-45b8-b3ee-fcfc7e12a3e4</id>
+      <masked>false</masked>
+      <name>width</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.HEIGHT</defaultValue>
+      <description></description>
+      <id>7da3af98-0f58-43cd-a922-83405749e25e</id>
+      <masked>false</masked>
+      <name>height</name>
+   </variable>
+</TestCaseEntity>
